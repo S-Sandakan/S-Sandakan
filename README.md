@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanidu</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate FullStack  developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-sandakan&label=Profile%20views&color=0e75b6&style=flat" alt="s-sandakan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-sandakan" alt="s-sandakan" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://sanidusandakan2000.wordpress.com/](https://sanidusandakan2000.wordpress.com/)
 
